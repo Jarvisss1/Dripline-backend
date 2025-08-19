@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+gunicorn
+python-dotenv
+pymongo[srv] # <-- UPDATED from motor
+pydantic[email]
+pydantic-settings
+python-jose[cryptography]
+pyjwt
+requests
+tensorflow
+numpy
+Pillow
+python-multipart
